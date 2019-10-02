@@ -7,11 +7,24 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
 ul li {
     padding-bottom: 10px;
-
+    font-size: 20px;
 }
 
 ol li {
     padding-bottom: 20px;
+}
+
+a {
+    background-color: #def6ed;
+    border-radius: 4px;
 }

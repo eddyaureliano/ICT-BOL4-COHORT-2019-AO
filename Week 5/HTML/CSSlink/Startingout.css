@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+  h1 {
+      color: white;
+    text-shadow: 3px 2px black;
+  }
+
+  h2 {
+      color: white;
+      text-shadow: 3px 2px black;
+  }
+  a {
+      color: white;
+      text-shadow: 3px 2px blue;
+      font-size: 25px;
+  }
+
+p {
+    color: black;
+    font-size: 25px;
+    font-weight: bolder;
+    background-color: bisque;
+     width: 300px;
+     height: 200px;
+     padding: 40px;
+     border-width: 20px;
+     border-color: red;
+     border-style: dashed;
+     
+
+}

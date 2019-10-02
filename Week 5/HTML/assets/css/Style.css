@@ -1,0 +1,17 @@
+.container{
+width: 50%;
+margin: 0 auto;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+ul li {
+    padding-bottom: 10px;
+
+}
+
+ol li {
+    padding-bottom: 20px;
+}

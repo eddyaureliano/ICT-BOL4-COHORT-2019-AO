@@ -111,7 +111,7 @@ if (bbal8 != 0) {
 
 if (bbal16 != 0) {
 	totaalBbal16 = parseInt(bbal16 * 2)
-	document.getElementById("Bbal16Totaal").innerHTML = "Uw bedrag schalen van 16 bitterbalen is: €" + totaalBbal16.toFixed(2), "<br>";
+	document.getElementById("Bbal16Totaal").innerHTML = "Uw bedrag voor schalen van 16 bitterbalen is: €" + totaalBbal16.toFixed(2), "<br>";
 }
 
 var Total = fris*PRIJSFRIS+bier*PRIJSBIER+wijn*PRIJSWIJN+bbal8*PRIJSSNACK8+bbal16*PRIJSSNACK16;

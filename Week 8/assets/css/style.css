@@ -1,0 +1,24 @@
+body {
+    background-image: url("wood6.jpg")
+}
+
+p {
+    padding-top: 10px;
+    margin-left: 10px;;
+    font-family: 'Bowlby One SC', cursive;
+}
+
+h1 {
+    color: white;
+    text-shadow: 3px 2px black;
+    font-family: 'Bowlby One SC', cursive;
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    max-width: 400px;
+    min-height: 650px;
+    background-image: url("kreukelpapier.jpg");
+}
